@@ -83,7 +83,7 @@ const perguntas = [
       indice++;
       mostrarPergunta();
     } else {
-      erroMsg.textContent = "❌ A resposta está incorreta. Tente novamente!";
+      erroMsg.textContent = " A resposta está INCORRETA. Tente novamente!";
     }
   }
   
