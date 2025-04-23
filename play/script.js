@@ -8,37 +8,37 @@ const perguntas = [
         texto: "Local do primeiro beijo?",
         opcoes: ["Samba", "Sertanejo", "Pagode"],
         correta: "Pagode",
-        objeto: "🥁"
+        objeto: "Pagode"
     },   
     {
         texto: "Nome do cupido?",
         opcoes: ["Joao", "Leo", "Pedro"],
         correta: "Pedro",
-        objeto: "❤️"
+        objeto: "Cupido"
     },
     {
         texto: "Destino da ultima viagem juntos?",
         opcoes: ["NY", "Espanha", "Cuba"],
         correta: "Cuba",
-        objeto: "🚩"
+        objeto: "Cuba"
     },
     {
         texto: "Nome dos dois filhos de 4 patas?",
         opcoes: ["Berlim e Barney", "Berlim e Mike", "Mike e Bidu"],
         correta: "Berlim e Mike",
-        objeto: "🐶🐶"
+        objeto: "Berlim e Mike"
     },
     {
         texto: "Bairro onde moram?",
         opcoes: ["Sagrada Família", "Cidade Nova", "Silveira"],
         correta: "Silveira",
-        objeto: "🏠"
+        objeto: "Bairro Silveira"
     },
     {
         texto: "Bebida preferida do casal?",
         opcoes: ["Cerveja", "Canelinha", "Caipirinha"],
         correta: "Cerveja",
-        objeto: "🍺"
+        objeto: "Cerveja"
     },
     {
         texto: "PARABENS! VOCÊ ADQUIRIU TODOS OS EMOJIS !",
