@@ -12,7 +12,7 @@ const perguntas = [
     },   
     {
         texto: "Nome do cupido?",
-        opcoes: ["Joao", "Leo", "Pedro"],
+        opcoes: ["Pedro", "Leo", "Joao"],
         correta: "Pedro",
         objeto: "Cupido"
     },
